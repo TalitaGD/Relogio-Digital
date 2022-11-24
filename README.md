@@ -1,3 +1,3 @@
 # Relogio-Digital
 
--> Relogio Digital com HTML + CSS + JS
+-> Criando relogio digital com HTML + CSS + JS
